@@ -1,0 +1,14 @@
+C:\Users\270021692\source\repos\TopDown\TopDown\bin\Debug\TopDown.exe.config
+C:\Users\270021692\source\repos\TopDown\TopDown\bin\Debug\TopDown.exe
+C:\Users\270021692\source\repos\TopDown\TopDown\bin\Debug\TopDown.pdb
+C:\Users\270021692\source\repos\TopDown\TopDown\obj\Debug\TopDown.csprojAssemblyReference.cache
+C:\Users\270021692\source\repos\TopDown\TopDown\obj\Debug\TopDown.csproj.CoreCompileInputs.cache
+C:\Users\270021692\source\repos\TopDown\TopDown\obj\Debug\TopDown.exe
+C:\Users\270021692\source\repos\TopDown\TopDown\obj\Debug\TopDown.pdb
+C:\HTTPServer\TopDown\TopDown\bin\Debug\TopDown.exe.config
+C:\HTTPServer\TopDown\TopDown\bin\Debug\TopDown.exe
+C:\HTTPServer\TopDown\TopDown\bin\Debug\TopDown.pdb
+C:\HTTPServer\TopDown\TopDown\obj\Debug\TopDown.csprojAssemblyReference.cache
+C:\HTTPServer\TopDown\TopDown\obj\Debug\TopDown.csproj.CoreCompileInputs.cache
+C:\HTTPServer\TopDown\TopDown\obj\Debug\TopDown.exe
+C:\HTTPServer\TopDown\TopDown\obj\Debug\TopDown.pdb
