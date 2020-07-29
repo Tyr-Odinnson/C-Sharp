@@ -10,14 +10,17 @@ namespace TopDown
     {
         public Player(Vector2 _position)
         {
-
+            Position = _position;
+            maxHP = hp;
         }
 
-        public int hp;
-        public Vector2 Position;
-        private string log;
+        public static Vector2 Position;
+
+        public int hp = 10;
+
+        private string log = "";
         private int maxHP;
-        private int potions;
+        private int potions = 1;
 
         public void Act()
         {
