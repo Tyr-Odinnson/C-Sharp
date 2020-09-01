@@ -8,6 +8,12 @@ public class EInverseLerp : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        ChangeColor();
+    }
+
+    private void ChangeColor() {
+        float t = Mathf.InverseLerp(3, 9, transform.position.x);
+
+        GetComponent<Renderer>().material.color = gradient.Evaluate(t);
     }
 }
