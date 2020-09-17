@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Custom/Scenes/1_HelloCube.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Custom/Scenes/2_Placeable.unity
+    guid: 0a7f5b9f25915e94aaf3edeea24f1558
+  - enabled: 0
+    path: Assets/Custom/Scenes/3_ImageTracking.unity
+    guid: adb23f4a9762124429a88fe9c3cbea79
+  - enabled: 1
+    path: Assets/Custom/Scenes/4_FaceTracking.unity
+    guid: e021128acd422c149af464e91015e0e2
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 959e27b144e363141905c9f19a5cf606, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b92659ef066d9e6459795344836a9650, type: 2}
